@@ -1,6 +1,6 @@
 DEPRECATED
 ==========
-## Master Repository for [MAZA](https://github.com/mazacoin/maza)
+## Master Repository moved to: [MAZA](https://github.com/mazacoin/maza)
 Please change to our new repo 
 
 Master in this repositoy is v0.10.2 pre-release
