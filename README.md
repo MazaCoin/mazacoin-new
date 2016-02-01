@@ -1,3 +1,12 @@
+DEPRECATED
+==========
+## Master Repository for [MAZA](https://github.com/mazacoin/maza)
+Please change to our new repo 
+
+Master in this repositoy is v0.10.2 pre-release
+
+
+
 This is non-production code!! https://github.com/Maza/Maza is where to find production code. 
 This version of maza will replace the current repo when completed. We are reorganizing this code so that it:
 1) is directly forked from it's bitcoin source
